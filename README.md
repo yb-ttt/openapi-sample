@@ -52,3 +52,8 @@ $ bundle install
 ```sh
 $ bin/rails db:test:prepare test
 ```
+
+
+Result:
+<img width="976" alt="Cursor_and_0" src="https://github.com/user-attachments/assets/3ec3c4c3-d246-4490-88c3-cfb6f0073ba4" />
+
